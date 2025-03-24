@@ -7,13 +7,13 @@ class StandAloneApp(App):
         super().__init__(redirect, filename, useBestVisual, clearSigInt)
 
     def OnInit(self):
-        from kicad_amf_plugin.settings.setting_manager import SETTING_MANAGER
+        from kicad_search_plugin.settings.setting_manager import SETTING_MANAGER
 
-        # self.locale = Locale(SETTING_MANAGER.get_language())
+        self.locale = Locale(SETTING_MANAGER.get_language())
         return True
 
 if __name__ == "__main__":
-    from kicad_amf_plugin.plugin._main import _main
+    from kicad_search_plugin.plugin._main import _main
     app = StandAloneApp()
     _main()
     app.MainLoop()

@@ -4,52 +4,17 @@
     中文 |<a href="README.md">English<a/>
 </p>
 
-### 在 KiCad 一键询价和下单
-
-HQ PCB 插件将帮助您：
-
-- 从您的设计中提取关键制造参数
-- 在 KiCad 内获取华秋的实时报价
-- 生成 Gerber 文件并将其与您的个人电路板设置一起上传到华秋
-
-上传完成后，您可以使用华秋 DFM 仔细检查您的制造文件，调整电路板参数，然后将其直接添加到您的华秋购物车。
-![HQ PCB插件](https://github.com/Huaqiu-Electronics/kicad-hqpcb-plugin/blob/main/docs/hqpcb-screen.gif)
-
-## 特色
-
-### 自动参数提取
-
-启动插件时，将从您的 KiCad 设计中提取以下参数：
-
-- 层数
-- 电路板尺寸（x，y）
-- 板厚
-- 最小走线宽度/间距
-- 最小钻孔尺寸
-
-_注意：这些参数无法从插件中编辑，因为它们是直接从您的 KiCad 设计中提取的。_
-
 ### 直接在 KiCad 中获取实时报价
 
-单击“更新价格”按钮，从华秋获取您的电路板的最新定价和交货时间。
+HQ Search 插件将帮助您：
 
-您可以随时修改其他参数（例如阻焊层颜色、电路板数量等），然后单击按钮即可重新报价。所有选项均与[华秋 PCB](https://www.hqpcb.com/)同步。
-
-_注意：某些组合受到限制（例如白色丝印不能与白色阻焊层一起选择）。_
-
-### 一键 Gerber 生成并同步到订单页面
-
-单击“下订单”按钮生成 Gerber 和 NC 钻孔文件，并将其与您的电路板参数一起直接上传到华秋的订单页面。
-
-一切都是同步的，因此不需要额外的调整。当然，您可以随意更改网站上的设置，然后继续订购。
-
-支持以下区域：
-- 中国大陆 [华秋 PCB](https://www.hqpcb.com/quote/)
+- 一键搜索电子器件数据
+- 在 KiCad 内获取华秋的器件实时报价
+- 通过search进行模糊全局搜索，通过NPM进行精准搜索
 
 ## 安装
 
 从KiCad主窗口打开“扩展内容管理器”。然后，“KiCad official repository”中找到“HQ PCB”,进行安装安装。
-![图片](https://github.com/Huaqiu-Electronics/kicad-hqpcb-plugin/blob/main/kicad_amf_plugin/icon/image.png)
 
 
 ## NextPCB
@@ -75,65 +40,3 @@ HQ DFM 一键分析开短路、断头线、线距线宽等20余项设计风险�
 
 该项目包含副本或使用其他作品。这些作品及其各自的许可和条款是：
 [kicad-jlcpcb-tools](https://github.com/Bouni/kicad-jlcpcb-tools.git)  基于[MIT License](https://github.com/Bouni/kicad-jlcpcb-tools/blob/main/LICENSE)
-
-
-
-## Kicad-HQ 安装
-
-### Windows
-
-Windows 安装包可以直接使用以下链接下载：
-https://www.eda.cn/data/kicad-release/kicad-huaqiu-8.0.6-x86_64.exe.zip
-
-### Linux
-Linux 版本需要使用 Flatpak 下载
-
-#### 1，安装 flatpak
-
-`sudo apt install flatpak`
-
-#### 2，将域名映射为特定的 IP 地址
-
-`sudo vim /etc/hosts`
-
-用 vim 去 etc/host 中，加上这行：
-`175.6.14.183 kicad.huaqiu.com`
-
-测试是否连接成功：
-`ping kicad.huaqiu.com`
-
-#### 3，添加远程kicad仓库
-
-`flatpak remote-add --user repo https://kicad.huaqiu.com/kicadhuaqiu`
-
-查看是否添加成功：
-`flatpak remote-ls repo`
-
-如果报错GPG verification,执行步骤 4 ，否则跳过
-
-#### 4，忽略包没签名认证,用 vim 编辑器修改配置
-
-`vim ~/.local/share/flatpak/repo/config`
-
-在文件中修改: `gpg-verify=false`
-
-`flatpak remote-modify --no-gpg-verify repo`
-
-查看是否添加成功：
-`flatpak remote-ls repo`
-
-#### 5，安装kicad
-
-`flatpak install repo org.kicad.KiCad`
-
-如果报错缺少依赖，进行下一步“6”。
-
-#### 6，缺少 SDK 依赖，用国内 flathub 镜像仓库，先添加远程仓库，然后安装缺少的依赖：
-
-`sudo flatpak remote-modify flathub --url=https://mirror.sjtu.edu.cn/flathub`
-
-如果缺少org.freedesktop.Sdk/x86_64/23.08：
-`flatpak install flathub org.freedesktop.Sdk/x86_64/23.08`
-
-如果缺少org.freedesktop.Sdk//23.08：
-`flatpak install flathub org.freedesktop.Sdk//23.08`

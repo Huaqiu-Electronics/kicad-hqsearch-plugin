@@ -1,0 +1,1820 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-10-22 15:53+0800\n"
+"PO-Revision-Date: 2024-10-22 15:54+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\app_base.py:33
+msgid "In progress"
+msgstr "正在进行中"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\app_base.py:33
+msgid "Open Software"
+msgstr "打开软件"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\app_base.py:41
+#, fuzzy
+#| msgid "Pillow is not installed.Please try to install it."
+msgid "Pillow is not installed in python.Please try to install it."
+msgstr "Pillow 没有安装在python中，请安装它。"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\app_base.py:45
+msgid "Unsupported layer count!"
+msgstr "板子层数不支持!"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\main_frame.py:113
+msgid "   HQ PCB   "
+msgstr "   HQ PCB   "
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\main_frame.py:137
+msgid "Preparing for your order"
+msgstr "正在准备您的订单信息"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\main_frame.py:138
+msgid "The browser will be launched automatically while ready"
+msgstr "订单准备好后会自动打开浏览器"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\main_frame.py:304
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\main_frame.py:562
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:67
+msgid "Sending order request"
+msgstr "正在发送订单请求"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\main_frame.py:450
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\main_frame.py:484
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\main_frame.py:556
+msgid "No available url for querying price in current region"
+msgstr "当前区域无可询价接口"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\main_frame.py:465
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\upload_file.py:118
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:328
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:316
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:299
+msgid "An unexpected HTTP error occurred: {error}"
+msgstr "未知的HTTP请求错误发生： {error}"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\main_frame.py:476
+msgid "Incorrect form parameter: "
+msgstr "无效的表单参数: "
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\main_frame.py:502
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\main_frame.py:519
+msgid "Return false"
+msgstr "返回错误信息"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\main_frame.py:535
+msgid "No available url for placing order in current region"
+msgstr "当前区域无可下单接口"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\main_frame.py:624
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\upload_file.py:123
+msgid ""
+"Failed to request the API:\r\n"
+"{reason}.\r\n"
+" \r\n"
+"Please try making the request again.\r\n"
+msgstr ""
+"请求API接口失败：\n"
+"{reason}.\n"
+" \n"
+"稍后请再次尝试。\n"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\main_frame.py:625
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\upload_file.py:124
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:948
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:956
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:298
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:334
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:379
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:424
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:270
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:305
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:123
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:130
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:138
+msgid "Error"
+msgstr "错误"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\bom_price_model.py:4
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\smt_price_model.py:10
+msgid "total"
+msgstr "总计"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\bom_price_model.py:21
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:94
+msgid "BOM"
+msgstr "BOM"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\order_summary_model.py:14
+msgid "days"
+msgstr "天"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\order_summary_model.py:14
+msgid "hours"
+msgstr "小时"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:7
+msgid "testfee"
+msgstr "测试费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:8
+msgid "plate"
+msgstr "菲林费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:9
+msgid "clc"
+msgstr "板费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:10
+msgid "gch"
+msgstr "工程费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:11
+msgid "bgafee"
+msgstr "bga费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:12
+msgid "impendancefee"
+msgstr "阻抗"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:13
+msgid "pin"
+msgstr "拼版费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:14
+msgid "copperfee"
+msgstr "铜厚费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:15
+msgid "colorfee"
+msgstr "颜色费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:16
+msgid "sprayfee"
+msgstr "喷镀费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:17
+msgid "extraurgentfee"
+msgstr "加急费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:18
+msgid "viasfee"
+msgstr "过孔费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:19
+msgid "bankongfee"
+msgstr "半孔费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:20
+msgid "utilizationfee"
+msgstr "使用费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:21
+msgid "discountfee"
+msgstr "优惠金额"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:22
+msgid "boardfee"
+msgstr "运费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:23
+msgid "difficultyfee"
+msgstr "难度工艺费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:24
+msgid "coverfee"
+msgstr "阻焊覆盖费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:25
+msgid "blindfee"
+msgstr "盲埋孔费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:26
+msgid "pressingfee"
+msgstr "叠层结构费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:27
+msgid "cjfee"
+msgstr "沉金费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:28
+msgid "pthfee"
+msgstr "电镀通孔费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:29
+msgid "viainpadfee"
+msgstr "盘中孔费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:30
+msgid "reportfee"
+msgstr "报告费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:31
+msgid "populerfee"
+msgstr "冷门工艺费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:32
+msgid "paperfee"
+msgstr "隔白纸费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:33
+msgid "userstampfee"
+msgstr "不加客编费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:34
+msgid "acceptancefee"
+msgstr "验收标准费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:35
+msgid "crossfee"
+msgstr "打叉板费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:36
+msgid "invoicefee"
+msgstr "发票费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:37
+msgid "insurancefee"
+msgstr "保险费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:38
+msgid "zkfee"
+msgstr "钻孔费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:39
+msgid "cutfee"
+msgstr "割刀费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:40
+msgid "luocao"
+msgstr "罗槽加价"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\pcb_price_model.py:41
+msgid "luocheng"
+msgstr "罗程加价"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\smt_price_model.py:9
+msgid "smt_goods_fee_no_tax"
+msgstr "总费用（不含税）"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\smt_price_model.py:11
+msgid "smt_goods_fee_tax"
+msgstr "smt税费"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\smt_price_model.py:42
+msgid "SMT"
+msgstr "SMT"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\summary_panel.py:40
+msgid "Mainland China"
+msgstr "中国大陆"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\summary_panel.py:41
+msgid "Worldwide (English)"
+msgstr "全球（英语）"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\summary_panel.py:42
+msgid "Worldwide (Japanese)"
+msgstr "全球（日语）"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\summary_panel.py:93
+msgid "Designator"
+msgstr "标识符"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\summary_panel.py:100
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:38
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:60
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:54
+msgid "Value"
+msgstr "值"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\summary_panel.py:107
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:45
+msgid "Footprint"
+msgstr "封装"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\summary_panel.py:116
+msgid "Build Time"
+msgstr "交期"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\summary_panel.py:123
+msgid "Qty"
+msgstr "数量"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\summary_panel.py:130
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\summary_panel.py:151
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:220
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:195
+msgid "Price"
+msgstr "价格"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\summary_panel.py:144
+msgid "Item"
+msgstr "项目"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\summary_panel.py:185
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:47
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:57
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:86
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:96
+msgid "Green"
+msgstr "绿"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\summary_panel.py:389
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:52
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:23
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:19
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\part_list_view.py:25
+msgid "MPN"
+msgstr "MPN"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\ui_summary_panel.py:47
+msgid "BOM View"
+msgstr "BOM查看"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\ui_summary_panel.py:55
+msgid "BOM Match"
+msgstr "BOM匹配"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\ui_summary_panel.py:63
+msgid "Cost Detail"
+msgstr "价格明细"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\ui_summary_panel.py:82
+msgid "Order Summary"
+msgstr "订单信息汇总"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\ui_summary_panel.py:91
+msgid "Tip"
+msgstr "提示"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\ui_summary_panel.py:93
+msgid ""
+"Factors that affect the price : Layer,  Min Trace/Space Outer, Min Pilled "
+"Hole "
+msgstr "影响价格的因素：板层、最小线宽线距、最小孔径"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\ui_summary_panel.py:98
+msgid "Min Trace/Space Outer(Recommand) : 6mil--10mil"
+msgstr "最小线宽/线距（推荐）: 6mil--10mil"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\ui_summary_panel.py:105
+msgid "Board Type (Recommand) : Single Piece"
+msgstr "出货形式（推荐）：单片"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\ui_summary_panel.py:112
+msgid "Flnsihed Copper Weight (Best Price) : 1zo"
+msgstr "外层铜厚（最优价格）: 1zo"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\ui_summary_panel.py:119
+msgid "Solder Mask Color (Best Price) : Green"
+msgstr "阻焊颜色（最优价格）: 绿色"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\ui_summary_panel.py:141
+msgid "Update Price"
+msgstr "更新价格"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\ui_summary_panel.py:144
+msgid "Add to Cart"
+msgstr "加入购物车"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\upload_file.py:112
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:419
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:461
+msgid "HTTP request timed out: {error}"
+msgstr "HTTP请求超时：{error}"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\upload_file.py:114
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:324
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:314
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:297
+msgid "HTTP error occurred: {error}"
+msgstr "HTTP请求错误：{error}"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\gui\summary\upload_file.py:116
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:326
+msgid "Failed to parse JSON response: {error}"
+msgstr "解析JSON参数失败：{error}"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:31
+msgid "Create fabrication data folder"
+msgstr "创建制造文件文件夹"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:34
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:77
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:235
+msgid "Fill zones"
+msgstr "填充网格"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:35
+msgid "Generate gerber"
+msgstr "生成gerber文件"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:37
+msgid "Generate excellon"
+msgstr "生成excellon文件"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:41
+msgid "Zip gerber and excellon file"
+msgstr "打包gerber和excellon文件"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:84
+msgid "BOM Tools"
+msgstr "BOM Tools"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:135
+msgid " Group by: "
+msgstr "按组分类："
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:143
+msgid " No Group "
+msgstr "不分组"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:143
+msgid " Value & Footprint "
+msgstr "值&封装"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:148
+msgid "No Group"
+msgstr "不分组"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:163
+msgid "Auto Match "
+msgstr "自动匹配"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:165
+msgid "Auto Match MPN number to parts"
+msgstr "自动匹配MPN号码器件"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:196
+msgid "   All   "
+msgstr "全部"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:212
+msgid "Unmanaged"
+msgstr "未匹配"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:424
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:466
+msgid "An error occurred during the request: {error}"
+msgstr "HTTP请求错误： {error}"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:429
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:471
+msgid "non-OK HTTP response status: {status_code}"
+msgstr "错误的HTTP相应状态码： {status_code}"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:433
+msgid "No return data"
+msgstr "没有返回数据"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:433
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:438
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:510
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:942
+msgid "Info"
+msgstr "信息"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:438
+msgid "No corresponding data was matched. You can try to manually match."
+msgstr "没有匹配到相应的数据。请尝试手动匹配。"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:509
+msgid ""
+"The matching is complete. Check the matching result carefully. You can try "
+"to manually match the \"Unmatched\" part."
+msgstr "匹配完成，请仔细核对匹配结果。“未匹配”器件可尝试手动匹配。"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:855
+msgid "Copy MPN"
+msgstr "复制MPN"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:859
+msgid "Paste MPN"
+msgstr "粘贴MPN"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:863
+msgid "Manual Match"
+msgstr "手动匹配"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:867
+msgid "Remove Assigned MPN"
+msgstr "移除匹配的MPN"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:941
+msgid "Export BOM file finished. file path : {temp_dir}"
+msgstr "导出BOM文件完成。文件路径：{temp_dir}"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:947
+msgid "Export BOM file error: {e}"
+msgstr "导出BOM文件错误：{e}"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\mainwindow.py:955
+msgid ""
+"Failed to download part detail from the BOM API:\r\n"
+"{reasons}\r\n"
+"Please try again later.\r\n"
+msgstr ""
+"从BOM API接口加载器件详情失败：\n"
+"{reasons}\n"
+"稍后请再次尝试\n"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:24
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\part_list_view.py:22
+msgid "index"
+msgstr "索引"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:31
+msgid "Reference"
+msgstr "位号"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:59
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:24
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:20
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\part_list_view.py:28
+msgid "Manufacturer"
+msgstr "制造商"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:66
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:26
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:22
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\part_list_view.py:40
+msgid "Category"
+msgstr "种类"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:73
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:29
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:25
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\part_list_view.py:46
+msgid "SKU"
+msgstr "SKU"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:80
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\part_list_view.py:49
+msgid "Price /Pc."
+msgstr "价格 /片"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:87
+msgid "Quantity"
+msgstr "数量"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:101
+msgid "POS"
+msgstr "POS"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:108
+msgid "Side"
+msgstr "面"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_model.py:46
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:238
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:258
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_model.py:48
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:213
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:230
+msgid "Show more"
+msgstr "显示更多"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:25
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:21
+msgid "Package / Footprint"
+msgstr "封装"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:27
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:23
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\ui_part_details_panel.py:30
+msgid "Description"
+msgstr "描述"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:28
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:89
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:24
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:85
+msgid "Datasheet"
+msgstr "数据手册"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:54
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:48
+msgid "Property"
+msgstr "属性"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:168
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:144
+msgid "The width and height of new size must be greater than 0"
+msgstr "新尺寸的宽高必须大于0"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:195
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:171
+msgid "returned data does not have expected clicked part"
+msgstr "返回的数据没有预期的点击器件"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:228
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:230
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:203
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:205
+msgid "Piece"
+msgstr "片"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:264
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:263
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:236
+msgid "No corresponding sku data was matched"
+msgstr "没有匹配到相应的SKU数据"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:297
+msgid ""
+"Failed to download part detail: {reason}\r\n"
+"We looked for a part named:\r\n"
+"{ mpn }\r\n"
+msgstr ""
+"加载器件详情失败： {reason}\n"
+"器件名称：\n"
+"{ mpn }\n"
+"\n"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:322
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:312
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:295
+msgid "HTTP request timed out"
+msgstr "HTTP请求超时"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:333
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:423
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:304
+msgid ""
+"Failed to download part detail from the BOM API:\r\n"
+"{reasons}\r\n"
+msgstr ""
+"从BOM API接口加载器件详情失败：\n"
+"{reasons}\n"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\ui_assigned_part_panel.py:29
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\ui_part_details_panel.py:23
+msgid "Part Details"
+msgstr "器件细节"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\ui_assigned_part_panel.py:45
+msgid "Part Picture"
+msgstr "器件图片"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_match_part_panel\match_part_view.py:17
+msgid "Export BOM file to the project folder"
+msgstr "导出BOM文件到工程文件夹"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_match_part_panel\ui_match_part_panel.py:27
+msgid " Manual Match "
+msgstr "手动匹配"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_match_part_panel\ui_match_part_panel.py:30
+msgid " Remove Assigned MPN "
+msgstr "移除匹配的MPN"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_match_part_panel\ui_match_part_panel.py:31
+msgid "Remove Assigned MPN "
+msgstr "移除匹配的MPN"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_match_part_panel\ui_match_part_panel.py:38
+msgid " Epxort... "
+msgstr "导出.."
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:38
+msgid "BOM Search Online"
+msgstr "BOM Search Online"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:218
+msgid "No corresponding data was matched"
+msgstr "没有匹配到相应的数据"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:229
+msgid "returned JSON data does not have expected 'part' attribute"
+msgstr "返回的JSON数据不是期望的器件属性"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:243
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:247
+msgid "{total} Results"
+msgstr "{total} 条"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:245
+msgid "{max_part_count} Results"
+msgstr "{max_part_count} 条"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:378
+msgid "Failed to get clicked part from NextPCB"
+msgstr "未能从NextPCB获取到被点击器件"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:407
+msgid "Help"
+msgstr "帮助"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:430
+msgid "Select Part"
+msgstr "选择器件"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:269
+msgid ""
+"Failed to download part detail: {reason}\r\n"
+"We looked for a part named:\r\n"
+"{mpn} \r\n"
+msgstr ""
+"加载器件详情失败： {reason}\n"
+"器件名称：\n"
+"{mpn}\n"
+"\n"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\ui_part_details_panel.py:42
+msgid "Picture"
+msgstr "图片"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\part_list_view.py:34
+msgid "Package/Footprint"
+msgstr "封装"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:27
+msgid "0 Results"
+msgstr "0 条"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:57
+msgid "Previous"
+msgstr "上一页"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:62
+msgid "0/1000"
+msgstr "0/1000"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:72
+msgid "Next"
+msgstr "下一页"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:78
+msgid "Select part"
+msgstr "选择器件"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_search_panel\ui_search_panel.py:37
+msgid "MPN: "
+msgstr "MPN: "
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_search_panel\ui_search_panel.py:45
+msgid "Manufacturer: "
+msgstr "制造商："
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\part_selector_view\ui_search_panel\ui_search_panel.py:56
+msgid "Search"
+msgstr "搜索"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:15
+msgid "NextPCB Tools Settings"
+msgstr "NextPCB Tools Settings"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:46
+msgid "Do not tent vias"
+msgstr "不要覆盖过孔"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:54
+msgid "Whether vias should be coverd by soldermask or not"
+msgstr "通孔是否需要用焊罩覆盖"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:85
+msgid "Whether zones should be filled on gerber generation"
+msgstr "gerber生成时是否填充区域"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:108
+msgid "Plot values"
+msgstr "绘制数值"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:116
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:147
+msgid "Whether value should be plotted on gerber generation"
+msgstr "生成Gerber文件时是否应绘制数值"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:139
+msgid "Plot references"
+msgstr "绘制参考"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:172
+msgid "MPN number priority"
+msgstr "MPN号码优先级"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:181
+msgid ""
+"Whether nextPCB number from schematic should overrule those in the database"
+msgstr "原理图中的下一个pcb号是否应该优先于数据库中的"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:220
+msgid "Tented vias"
+msgstr "覆盖的过孔"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:226
+msgid "Untented vias"
+msgstr "未覆盖的过孔"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:243
+msgid "Don't fill zones"
+msgstr "不填充区域"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:254
+msgid "Plot values on silkscreen"
+msgstr "在丝印上绘制值"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:262
+msgid "Don't plot values on silkscreen"
+msgstr "不在丝印上绘制值"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:271
+msgid "Plot references on silkscreen"
+msgstr "在丝网印刷层上绘制参考标记"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:277
+msgid "Don't plot references on silkscreen"
+msgstr "不在丝网印刷层上绘制参考标记"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:287
+msgid "MPN numbers from schematic have priority"
+msgstr "原理图中的MPN号码具有优先级"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\settings.py:295
+msgid "MPN numbers from database have priority"
+msgstr "数据库中的MPN号码具有优先级"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\store.py:130
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\kicad_nextpcb_new\store.py:361
+msgid ""
+"Database error occurred. \r\n"
+"Please delete database : {dbfile}"
+msgstr ""
+"数据库发生错误 \n"
+"请删除数据库 : {dbfile}"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\language\lang_const.py:47
+msgid "Chinese"
+msgstr "简体中文"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\language\lang_const.py:47
+msgid "English"
+msgstr "英文"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\language\lang_const.py:47
+msgid "Japanese"
+msgstr "日文"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:38
+msgid "Single Piece"
+msgstr "单片出货"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:39
+msgid "Panel by Customer"
+msgstr "连片(按文件)"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:40
+msgid "Panel by NextPCB"
+msgstr "连片(华秋代拼)"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:51
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\special_process\special_process_view.py:14
+msgid "N/A"
+msgstr "无"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:52
+msgid "Left & Right"
+msgstr "左右"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:53
+msgid "Top & Bottom"
+msgstr "上下"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:54
+msgid "All 4 sides"
+msgstr "四边"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:122
+msgid "Panel Type X value isn't valid. Please input valid value."
+msgstr "连片长度无效,请输入有效整数."
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:129
+msgid "Panel Type Y value isn't valid. Please input valid value."
+msgstr "连片宽度无效,请输入有效整数."
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:137
+msgid "Break-away Rail value isn't valid. Please input valid value."
+msgstr "工艺边框尺寸无效,请输入有效数字."
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:331
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:207
+msgid "Size (single)"
+msgstr "单片尺寸"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:332
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:162
+msgid "Qty(single)"
+msgstr "单片数量"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:333
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:191
+msgid "Pcs"
+msgstr "片"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:335
+msgid "Size (set)"
+msgstr "单片尺寸"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:336
+msgid "Qty(Set)"
+msgstr "连片数量"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\base_info_view.py:337
+msgid "Set"
+msgstr "Set"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:38
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:27
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_smt_base_info.py:24
+msgid "Base Info"
+msgstr "基础信息"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:49
+msgid "Material Type"
+msgstr "板材"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:56
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:70
+msgid "Non-conductive base material"
+msgstr "非导电基材"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:77
+msgid "Layer Count"
+msgstr "板子层数"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:101
+msgid "Board TG"
+msgstr "板子TG"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:132
+msgid "Board Type"
+msgstr "出货形式"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:139
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:154
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:269
+msgid "The finished PCB are by single or by panel"
+msgstr "单片或者连片出货"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:219
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:315
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:191
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:107
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:213
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_smt_base_info.py:124
+msgid "X:"
+msgstr "X:"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:246
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:287
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:435
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\ui_process_info.py:74
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:204
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:225
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:120
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:141
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:193
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_smt_base_info.py:137
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_smt_base_info.py:158
+msgid "mm"
+msgstr "mm"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:260
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:356
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:212
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:128
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:237
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_smt_base_info.py:145
+msgid "Y:"
+msgstr "Y:"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:303
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:204
+msgid "Panel Type"
+msgstr "拼版规则"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:342
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:383
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:87
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:229
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:250
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:281
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_smt_base_info.py:104
+msgid "pcs"
+msgstr "片"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\base\ui_base_info.py:401
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:178
+msgid "Break-away Rail"
+msgstr "工艺边框"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:13
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:25
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:15
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:25
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:30
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:35
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:40
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:45
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:50
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:55
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:66
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\process\process_info_view.py:28
+msgid "Need"
+msgstr "需要"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:14
+msgid "Need & Auto Confirm"
+msgstr "需要&自动确认"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:15
+msgid "Need & Manual Confirm"
+msgstr "需要&手动确认"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:19
+msgid "Accept"
+msgstr "接受"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:20
+msgid "Reject"
+msgstr "拒绝"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:26
+msgid "No need"
+msgstr "不需要"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:30
+msgid "Add customer stamp"
+msgstr "加客编"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:31
+msgid "Add it to specified location"
+msgstr "在指定位置加客编"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:32
+msgid "Don't add customer stamp"
+msgstr "不加客编"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:36
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\process\process_info_view.py:16
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\utils\constraint.py:6
+msgid "Yes"
+msgstr "是"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:37
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:50
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\process\process_info_view.py:15
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\utils\constraint.py:6
+msgid "No"
+msgstr "否"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:42
+msgid "Sample Test Free"
+msgstr "AOl+飞针抽测(免费)"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:43
+msgid "AOI+Flying Test"
+msgstr "AOI+飞针全测"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:44
+msgid "AOI+Fixture"
+msgstr "AOI+测试架"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:48
+msgid "Electronic"
+msgstr "电子"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:48
+msgid "Paper"
+msgstr "纸质"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:50
+msgid "UL+Week/Year"
+msgstr "UL+周/年"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\personalized_info_view.py:50
+msgid "UL+Year/Week"
+msgstr "UL+年/周"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\ui_personalized.py:24
+msgid "Personalized Service"
+msgstr "服务信息"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\ui_personalized.py:31
+msgid "Electrical Test"
+msgstr "测试方式"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\ui_personalized.py:41
+msgid "Approve Working Gerber"
+msgstr "确认生产稿"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\ui_personalized.py:51
+msgid "Delivery Report"
+msgstr "产品报告"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\ui_personalized.py:61
+msgid "Microsection Analysis Report"
+msgstr "显微切片分析报告"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\ui_personalized.py:71
+msgid "Report Format"
+msgstr "报告格式"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\ui_personalized.py:81
+msgid "UL Mark"
+msgstr "UL 标志"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\ui_personalized.py:91
+msgid "Film"
+msgstr "感光膜"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\ui_personalized.py:101
+msgid "Cross Board"
+msgstr "打叉板"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\ui_personalized.py:111
+msgid "Bulkhead Paper"
+msgstr "隔板纸"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\ui_personalized.py:121
+msgid "User Stamp Process"
+msgstr "客编处理"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\ui_personalized.py:131
+msgid "HQ Pack"
+msgstr "华秋包装"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\personalized\ui_personalized.py:144
+msgid "Special Request"
+msgstr "特殊要求"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:48
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:58
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:87
+msgid "Red"
+msgstr "红"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:49
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:59
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:88
+msgid "Yellow"
+msgstr "黄"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:50
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:60
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:89
+msgid "Blue"
+msgstr "蓝"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:51
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:61
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:86
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:87
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:88
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:89
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:90
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:91
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:92
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:96
+msgid "White"
+msgstr "白"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:52
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:62
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:91
+msgid "Matte Black"
+msgstr "哑黑"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:53
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:63
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:90
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:92
+msgid "Black"
+msgstr "黑"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:68
+msgid "Tenting Vias"
+msgstr "过孔盖油"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:69
+msgid "Vias not covered"
+msgstr "过孔开窗"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:70
+msgid "Solder Mask Plug (IV-B)"
+msgstr "过孔塞油墨"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:71
+msgid "Non-Conductive Fill"
+msgstr "过孔塞树脂+电镀填平"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:75
+msgid "HASL"
+msgstr "有铅喷锡"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:76
+msgid "Lead free HASL"
+msgstr "无铅喷锡"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:77
+msgid "ENIG"
+msgstr "沉金"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\process_info_view.py:78
+msgid "OSP"
+msgstr "OSP"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\ui_process_info.py:34
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\process\ui_process_info.py:23
+msgid "Process info"
+msgstr "工艺信息"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\ui_process_info.py:45
+msgid "PCB Thickness"
+msgstr "板子厚度"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\ui_process_info.py:88
+msgid "FInsihed Copper weight"
+msgstr "外层铜厚"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\ui_process_info.py:112
+msgid "Inner Copper Weight"
+msgstr "内层铜厚"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\ui_process_info.py:136
+msgid "Min Trace/Space Outer"
+msgstr "最小线宽/线距"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\ui_process_info.py:160
+msgid "Min Drilled Hole"
+msgstr "最小孔径"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\ui_process_info.py:184
+msgid "Solder Mask Color"
+msgstr "阻焊颜色"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\ui_process_info.py:208
+msgid "Silkscreen"
+msgstr "字符颜色"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\ui_process_info.py:232
+msgid "Via Process"
+msgstr "阻焊覆盖"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\ui_process_info.py:256
+msgid "Surface Finish"
+msgstr "表面处理"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\process\ui_process_info.py:280
+msgid "Immersion Gold Thickness"
+msgstr "沉金厚度"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\special_process\special_process_view.py:14
+msgid "Rank 1"
+msgstr "一阶"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\special_process\special_process_view.py:14
+msgid "Rank 2"
+msgstr "二阶"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\special_process\special_process_view.py:14
+msgid "Rank 3"
+msgstr "三阶"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\special_process\special_process_view.py:16
+msgid "Customer Specified Stack up"
+msgstr "自定义堆叠方式"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\special_process\special_process_view.py:16
+msgid "No Requirement"
+msgstr "无需求"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\special_process\ui_special_process.py:34
+msgid "Special Process"
+msgstr "特殊要求"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\special_process\ui_special_process.py:45
+msgid "Impedance"
+msgstr "阻抗"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\special_process\ui_special_process.py:69
+msgid "Beveling of G/F"
+msgstr "手指斜边"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\special_process\ui_special_process.py:93
+msgid "Plated Half Holes"
+msgstr "半孔"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\special_process\ui_special_process.py:117
+msgid "Pad Hole"
+msgstr "盘中孔"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\special_process\ui_special_process.py:141
+msgid "HDI(Buried/blind vais)"
+msgstr "HDI(埋地/盲走)"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\special_process\ui_special_process.py:165
+msgid "HDI Structure"
+msgstr "HDI结构"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\special_process\ui_special_process.py:189
+msgid "Stack up"
+msgstr "堆叠"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\pcb_fabrication\special_process\ui_special_process.py:213
+msgid "Metallized Sides Count"
+msgstr "金属化边框数量"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:14
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:24
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:29
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:34
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:39
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:44
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:49
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:54
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:59
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:65
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\process\process_info_view.py:27
+msgid "No Need"
+msgstr "不需要"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:19
+msgid "General Cleaning"
+msgstr "普通清洁"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:20
+msgid "Precision Cleaning"
+msgstr "精度清洁"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:60
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\base_info_view.py:49
+msgid "Single Side"
+msgstr "单面"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:61
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\base_info_view.py:50
+msgid "Double Side"
+msgstr "双面"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:70
+msgid "Bubble Wrap"
+msgstr "气泡袋包装"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:71
+msgid "Anti-static and Bubble Bag"
+msgstr "防静电加气泡袋"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:72
+msgid "Electrostatic Bag with Knife Card"
+msgstr "静电袋加刀卡"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\personalized_info_view.py:86
+msgid "Lead-free Technology"
+msgstr "无铅工艺"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_personalized.py:25
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:25
+msgid "Special Technique"
+msgstr "特殊工艺"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_personalized.py:32
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:32
+msgid "Process Requirement"
+msgstr "制程要求"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_personalized.py:42
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:42
+msgid "Erecting Welding"
+msgstr "装配焊接"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_personalized.py:52
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:52
+msgid "X-RAY Boards"
+msgstr "X-RAY单板数"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_personalized.py:60
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:60
+msgid "X-RAY Elements"
+msgstr "X-RAY元件数"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_personalized.py:68
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:68
+msgid "Panel Cleaning"
+msgstr "板面清洁"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_personalized.py:78
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:78
+msgid "Material Baking"
+msgstr "物料烘烤"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_personalized.py:88
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:88
+msgid "Welding or Not"
+msgstr "是否焊线"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_personalized.py:98
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:98
+msgid "Functional Test"
+msgstr "功能测试"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_personalized.py:108
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:108
+msgid "Assembled"
+msgstr "装配"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_personalized.py:118
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:118
+msgid "Program Burning"
+msgstr "程序烧录"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_personalized.py:128
+msgid "Split Shipment"
+msgstr "拆板出货"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_personalized.py:138
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:128
+msgid "Line/Pad Tinning"
+msgstr "线路/焊盘加锡"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_personalized.py:148
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:138
+msgid "Three-proof Paint"
+msgstr "刷三防漆"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_personalized.py:158
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:158
+msgid "Sample Drawing Confirm"
+msgstr "样品图确认"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_personalized.py:168
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:168
+msgid "Packaging Type"
+msgstr "包装类型"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_personalized.py:181
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:242
+msgid "Postscript"
+msgstr "工艺备注"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:148
+msgid "split board"
+msgstr "拆板出货"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\personalized\ui_smt_personalized.py:184
+msgid "split board(single)"
+msgstr "拆板尺寸"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\process\process_info_view.py:21
+msgid "Ordinary Steel Mesh"
+msgstr "普通钢网"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\process\process_info_view.py:22
+msgid "Stepped Steel Mesh"
+msgstr "阶梯钢网"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\process\ui_process_info.py:30
+msgid "BOM Material Type"
+msgstr "BOM物料种类"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\process\ui_process_info.py:38
+msgid "Patch Pad Number"
+msgstr "单片贴片点数"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\process\ui_process_info.py:46
+msgid "Welding Plugin"
+msgstr "焊接插件料"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\process\ui_process_info.py:56
+msgid "Single Plugin Points"
+msgstr "单片插件点数"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\process\ui_process_info.py:64
+msgid "Steel Mesh"
+msgstr "钢网"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\process\ui_process_info.py:74
+msgid "Steel Follow Delivery"
+msgstr "钢网随货发"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\base_info_view.py:31
+msgid "Industrial Control Electronics"
+msgstr "工控电子"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\base_info_view.py:32
+msgid "Automotive Electronics"
+msgstr "汽车电子"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\base_info_view.py:33
+msgid "Medical Electronics"
+msgstr "医疗电子"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\base_info_view.py:34
+msgid "New Energy Electronics"
+msgstr "新能源电子"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\base_info_view.py:35
+msgid "Military Electronics"
+msgstr "军工电子"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\base_info_view.py:36
+msgid "Consumer Electronics"
+msgstr "消费电子"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\base_info_view.py:42
+msgid "Hard Board"
+msgstr "硬板"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\base_info_view.py:43
+msgid "Soft Board"
+msgstr "软板"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\base_info_view.py:44
+msgid "Combination of Hoft and Hard"
+msgstr "软硬结合"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\base_info_view.py:54
+msgid "Order Together"
+msgstr "一起下单定制"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\base_info_view.py:55
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\base_info_view.py:60
+msgid "Oneself Provide"
+msgstr "自己提供"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\base_info_view.py:59
+msgid "Huaqiu Agent Purchasing"
+msgstr "华秋代采购"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:34
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_smt_base_info.py:31
+msgid "Application Sphere"
+msgstr "应用领域"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:44
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_smt_base_info.py:41
+msgid "PCB Board Type"
+msgstr "PCB板类型"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:54
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_smt_base_info.py:51
+msgid "Single/Double Side"
+msgstr "单/双面"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:72
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_smt_base_info.py:89
+msgid "Qty(Single)"
+msgstr "单片数量"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:75
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_smt_base_info.py:92
+msgid ""
+"The total number of single pieces to be produced, the number of non-"
+"assembled plates"
+msgstr "需生产的总单片数，非拼板数"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:100
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_smt_base_info.py:117
+msgid "Size (Single)"
+msgstr "单片尺寸"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_base_info.py:266
+msgid "1 SET "
+msgstr "1 SET "
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_smt_base_info.py:61
+msgid "Custom PCB Board"
+msgstr "定制PCB板"
+
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-hqpcb-plugin\kicad_search_plugin\smt_pcb_fabrication\smt_base\ui_smt_base_info.py:71
+msgid "BOM Material Purchase"
+msgstr "BOM物料种类"
+
+#~ msgid ">{break_min} Piece()"
+#~ msgstr ">{break_min} 片(￥)"
+
+#~ msgid "{break_min}-{break_max} Piece()"
+#~ msgstr "{break_min}-{break_max} 片(￥)"
+
+#~ msgid "Place perform \"BOM Match\""
+#~ msgstr "请先执行“BOM匹配”"
+
+#~ msgid "50*50mm  Length*Width  400*340mm"
+#~ msgstr "50*50mm  长*宽  400*340mm"
+
+#~ msgid "The final quotation is subject to review."
+#~ msgstr "最后的报价以审核为准。"
+
+#~ msgid " Generate "
+#~ msgstr "生成制造文件"
+
+#~ msgid "Generate fabrication files to the project folder"
+#~ msgstr "生成制造文件到工程文件夹"
+
+#~ msgid "Generate fabrication files"
+#~ msgstr "生成制造文件"
+
+#~ msgid "Settings"
+#~ msgstr "设置"
+
+#~ msgid ""
+#~ "Auto match finished.Some parts might match failed. You can try it again "
+#~ "or match by manual."
+#~ msgstr ""
+#~ "自动匹配完成。某些部分可能匹配失败。\n"
+#~ "您可以再试一次或手动匹配。"
+
+#~ msgid "Show Part Details"
+#~ msgstr "显示器件细节"
+
+#~ msgid "Rotation"
+#~ msgstr "旋转"
+
+#~ msgid "returned data does not have expected part details"
+#~ msgstr "返回的数据不是期望的器件细节"
+
+#~ msgid "1000 Results (limited)"
+#~ msgstr "1000 条（被限制）"
+
+#~ msgid "Preference"
+#~ msgstr "偏好设置"
+
+#~ msgid "Website"
+#~ msgstr "下单站点"
+
+#~ msgid "Choose a kicad pcb file"
+#~ msgstr "选择kicad pcb文件"
+
+#~ msgid "Supplier"
+#~ msgstr "供应商"
+
+#~ msgid "Stock"
+#~ msgstr "库存"
+
+#~ msgid " HQ NextPCB "
+#~ msgstr " HQ NextPCB "
+
+#~ msgid "total_fee"
+#~ msgstr "总费用"
+
+#~ msgid "Import"
+#~ msgstr "导入"
+
+#~ msgid "Export"
+#~ msgstr "导出"
+
+#~ msgid "BOM Purchase"
+#~ msgstr "BOM物料采购"
+
+#~ msgid "HQ NextPCB Active Manufacturing"
+#~ msgstr "HQ NextPCB Active Manufacturing"
+
+#~ msgid "Shipping address"
+#~ msgstr "订购区域"
+
+#~ msgid ""
+#~ "Restart the plugin to apply the new locale ?\n"
+#~ "For full translation(including the options), restarting KiCad is required"
+#~ msgstr ""
+#~ "是否重启插件以应用新的语言设置?\n"
+#~ "如果需要完全翻译（包括选项），请重启 KiCad"
+
+#~ msgid " is not supported"
+#~ msgstr " 不支持"
+
+#~ msgid "China"
+#~ msgstr "中国"
+
+#~ msgid "Japan"
+#~ msgstr "日本"
+
+#~ msgid "Other countries/areas"
+#~ msgstr "其它国家/地区"
+
+#~ msgid "CN"
+#~ msgstr "中国大陆"
+
+#~ msgid "JP"
+#~ msgstr "日本"
+
+#~ msgid "HQPCB (Chinese)"
+#~ msgstr "华秋PCB(中国)"
+
+#~ msgid "HQ NextPCB (Japanese)"
+#~ msgstr "NextPCB (日本)"
+
+#~ msgid "Choose the preferred website for your order"
+#~ msgstr "选择一个站点下单"
+
+#~ msgid "EU/USA"
+#~ msgstr "欧美"
+
+#~ msgid "Order Region"
+#~ msgstr "订购区域"
+
+#~ msgid "Restart the plugin to apply the new locale ?"
+#~ msgstr "重启插件以应用新的语言配置？"
+
+#~ msgid "Time"
+#~ msgstr "时间"
+
+#~ msgid "Cost"
+#~ msgstr "价格"
+
+#~ msgid "BGA isn't valid. Please input valid number."
+#~ msgstr "BGA无效,请输入有效数字."
+
+#~ msgid "Turnhole density isn't valid. Please input valid number."
+#~ msgstr "通孔密度无效,请输入有效数字."
+
+#~ msgid "BGA"
+#~ msgstr "BGA"
+
+#~ msgid "Turnhole Density"
+#~ msgstr "通孔密度"
+
+#~ msgid "en"
+#~ msgstr "英语"
+
+#~ msgid "ja"
+#~ msgstr "日语"
+
+#~ msgid "zh_CN"
+#~ msgstr "中文简体"
+
+#~ msgid "Test point count isn't valid. Please input valid number."
+#~ msgstr "测试点数量无效，请输入数字."
+
+#~ msgid "PCB design count isn't valid. Please input valid number."
+#~ msgstr "PCB设计稿数量无效，请输入数字."
+
+#~ msgid "Test Point Count"
+#~ msgstr "测试点数量"
+
+#~ msgid "Unexpected response from server"
+#~ msgstr "不符合预期的服务器响应"
+
+#~ msgid "$"
+#~ msgstr "元"
+
+#~ msgid "Material Type:"
+#~ msgstr "板材:"
+
+#~ msgid "FR-4"
+#~ msgstr "FR-4"
+
+#~ msgid "Layer Count:"
+#~ msgstr "板子层数:"
+
+#~ msgid "Board Type:"
+#~ msgstr "出货形式:"
+
+#~ msgid "Panel Type:"
+#~ msgstr "拼版规则:"
+
+#~ msgid "Size (single):"
+#~ msgstr "单片尺寸:"
+
+#~ msgid "Qty(single):"
+#~ msgstr "连片数量:"
+
+#~ msgid "Break-away Rail:"
+#~ msgstr "工艺边框:"
+
+#~ msgid "PCB Thickness:"
+#~ msgstr "板子厚度:"
+
+#~ msgid "Inner Copper Weight:"
+#~ msgstr "内层铜厚:"
+
+#~ msgid "Min Drilled Hole:"
+#~ msgstr "最小孔径:"
+
+#~ msgid "Silkscreen:"
+#~ msgstr "丝网印刷:"
+
+#~ msgid "Via Process:"
+#~ msgstr "阻焊覆盖:"
+
+#~ msgid "Surface Finish:"
+#~ msgstr "表面处理:"
+
+#~ msgid "Immersion Gold Thickness:"
+#~ msgstr "沉金厚度:"
+
+#~ msgid "jp"
+#~ msgstr "日语"

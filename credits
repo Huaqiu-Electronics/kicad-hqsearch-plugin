@@ -3,14 +3,14 @@
 The KiCad AMF plugin contains parts, source code or adaptations or implementations that should give the following
 aknowledgments:
 
-## kicad_amf_plugin\plugin\kicad_amf_action_plugin.py
+## kicad_search_plugin\plugin\kicad_amf_action_plugin.py
 
 https://github.com/AislerHQ/PushForKiCad/blob/main/src/plugin.py
 
-## kicad_amf_plugin\utils\public_ip
+## kicad_search_plugin\utils\public_ip
 
 https://github.com/vterron/public-ip
 
-## kicad_amf_plugin\kicad\fabrication_data_generator.py
+## kicad_search_plugin\kicad\fabrication_data_generator.py
 
 https://github.com/Bouni/kicad-jlcpcb-tools/blob/main/fabrication.py
