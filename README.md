@@ -4,18 +4,20 @@
     English |<a href="README_zh.md">中文<a/>
 </p>
 
-### ### Real-time quotations completely within KiCad
+This advanced search engine empowers engineers, purchasers, and designers to efficiently locate electronic components by integrating ​multi-dimensional search capabilities and real-time supply chain insights. Designed to streamline workflows from prototyping to mass production, it supports searches via ​Manufacturer Part Number (MPN), ​vague descriptions, ​electrical parameters, and even cross-referencing equivalents.
+
+## Component Search
 
 HQ Search plugin will help you:
 
-- One-click search for electronic device data
-- Get real-time quotations from HQ PCB within KiCad
-- fuzzy global search through search, precise search through NPM
-
+- Searcg electronic component data with quality
+- Get real-time quotations from HQPCB within KiCad
+- Precise search through MPN & Fuzzy Search through parameters (Eg. 5k1 5% 0805)
+- Direct link to component datasheet and description page.
 
 ## Installation
 
-- Open the "Plugin and Content Manager" from the KiCad main window. Next, find "HQ PCB" from "KiCad official repository" and click install.
+- Open the "Plugin and Content Manager" from the KiCad main window. Next, find "Component Search" from "KiCad official repository" and click install.
 
 
 ## NextPCB
