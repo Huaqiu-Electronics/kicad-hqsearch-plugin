@@ -1,20 +1,26 @@
-# HQ PCB
+# 元器件搜索
 
 <p>
     中文 |<a href="README.md">English<a/>
 </p>
 
-### 直接在 KiCad 中获取实时报价
+这款先进的搜索引擎集成了多维搜索功能和实时供应链洞察力，使工程师、采购人员和设计人员能够高效地查找电子元件。该插件旨在简化从原型设计到批量生产的工作流程，支持通过制造商零件编号（MPN）、模糊描述、电气参数甚至交叉引用等价物进行搜索。
+
+## 元器件搜索
 
 HQ Search 插件将帮助您：
 
-- 一键搜索电子器件数据
-- 在 KiCad 内获取华秋的器件实时报价
-- 通过search进行模糊全局搜索，通过NPM进行精准搜索
+- 搜索高质量的电子元件数据
+- 在 KiCad 中从 HQPCB 获取实时报价
+- 通过 MPN 进行精确搜索，通过参数（如 5k1 5% 0805）进行模糊搜索
+- 直接链接至元件数据表和描述页面。
+
+  ![image](https://github.com/user-attachments/assets/f0e1edb2-a3d0-4ab4-8f88-dd030fa21a8c)
+
 
 ## 安装
 
-从KiCad主窗口打开“扩展内容管理器”。然后，“KiCad official repository”中找到“HQ PCB”,进行安装安装。
+从KiCad主窗口打开“扩展内容管理器”。然后，“KiCad official repository”中找到“Component Search”,进行安装安装。
 
 
 ## NextPCB
