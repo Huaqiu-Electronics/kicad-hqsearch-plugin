@@ -1,4 +1,4 @@
-# HQ PCB
+# Component Search
 
 <p>
     English |<a href="README_zh.md">中文<a/>
@@ -14,6 +14,9 @@ HQ Search plugin will help you:
 - Get real-time quotations from HQPCB within KiCad
 - Precise search through MPN & Fuzzy Search through parameters (Eg. 5k1 5% 0805)
 - Direct link to component datasheet and description page.
+
+  ![image](https://github.com/user-attachments/assets/ff522842-25b6-4af1-a837-a46f8ff553e3)
+
 
 ## Installation
 
